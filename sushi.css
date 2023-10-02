@@ -1,6 +1,8 @@
 
 video{
     position: fixed;
+    background: scroll;
+    background-size: cover;
     top: 50%;
     left: 50%;
     margin-top: -25%;
